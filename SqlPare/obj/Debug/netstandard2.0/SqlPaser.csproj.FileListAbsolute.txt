@@ -1,0 +1,8 @@
+E:\Study\vs\SqlPare\SqlPare\SqlPare\bin\Debug\netstandard2.0\SqlPaser.deps.json
+E:\Study\vs\SqlPare\SqlPare\SqlPare\bin\Debug\netstandard2.0\SqlPaser.dll
+E:\Study\vs\SqlPare\SqlPare\SqlPare\bin\Debug\netstandard2.0\SqlPaser.pdb
+E:\Study\vs\SqlPare\SqlPare\SqlPare\obj\Debug\netstandard2.0\SqlPaser.csproj.CoreCompileInputs.cache
+E:\Study\vs\SqlPare\SqlPare\SqlPare\obj\Debug\netstandard2.0\SqlPaser.AssemblyInfoInputs.cache
+E:\Study\vs\SqlPare\SqlPare\SqlPare\obj\Debug\netstandard2.0\SqlPaser.AssemblyInfo.cs
+E:\Study\vs\SqlPare\SqlPare\SqlPare\obj\Debug\netstandard2.0\SqlPaser.dll
+E:\Study\vs\SqlPare\SqlPare\SqlPare\obj\Debug\netstandard2.0\SqlPaser.pdb

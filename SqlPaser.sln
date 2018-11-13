@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SqlPaser", "SqlPare\SqlPaser.csproj", "{26A6A1AF-C60C-4D4B-A23C-D6236BEC4CA7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{E3530039-5323-41AC-A7C9-8FCD3990C414}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26A6A1AF-C60C-4D4B-A23C-D6236BEC4CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26A6A1AF-C60C-4D4B-A23C-D6236BEC4CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26A6A1AF-C60C-4D4B-A23C-D6236BEC4CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26A6A1AF-C60C-4D4B-A23C-D6236BEC4CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3530039-5323-41AC-A7C9-8FCD3990C414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3530039-5323-41AC-A7C9-8FCD3990C414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3530039-5323-41AC-A7C9-8FCD3990C414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3530039-5323-41AC-A7C9-8FCD3990C414}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC65B8C8-953A-4C1C-AD10-3E9A30B761B5}
+	EndGlobalSection
+EndGlobal
